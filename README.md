@@ -88,7 +88,7 @@ playwright-python-framework
 ## Clone Repository
 
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/Nikhil1791/Playwright-Python-Hybrid-Automation-Framework.git
 ```
 
 ---
